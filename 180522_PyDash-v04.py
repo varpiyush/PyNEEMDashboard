@@ -209,7 +209,7 @@ NeemDash.insert(box_map, 'left', 1, fill_percent=40)
 
 ###Styling Dashboard
 NeemDash['settings']['title'] = 'National Energy End-use Monitoring Dashboard'
-NeemDash['settings']['logoUrl'] = 'https://images.plot.ly/language-icons/api-home/python-logo.png'
+NeemDash['settings']['logoUrl'] = 'http://edsglobal.com/images/homepagetext/basetext/EDS.png'
 NeemDash['settings']['links'] = []
 NeemDash['settings']['links'].append({'title': 'Environmental Design Solutions', 'url': 'http://www.edsglobal.com/'})
 NeemDash['settings']['links'].append({'title': 'Zenatix', 'url': 'https://zenatix.com/'})
